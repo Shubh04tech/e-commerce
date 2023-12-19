@@ -1,0 +1,38 @@
+.nav-bar{
+    height: 20px;
+
+}
+ul{
+    list-style-type: none;
+    text-decoration: none;
+    display: flexbox;
+    
+}
+li{
+    text-decoration: none;
+    display: flex;
+    display: inline-block;
+}
+.navigation{
+    background-image: url("/images\ \(2\).jpeg");
+    background-repeat: repeat-y;
+    
+}
+#kurta{
+    
+    color: antiquewhite;
+    height: 200px;
+    background-image: url("/kurta.jpg");
+    background-repeat: repeat-y;
+    font-size: larger;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Shoes{
+background-image: url("/shoes.jpeg");
+background-repeat: repeat-y;
+height: 200px;
+font-size: larger;
+color: antiquewhite;
+}
+
+
